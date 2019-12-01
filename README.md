@@ -1,7 +1,16 @@
 # HALTool
 Create and extract HAL archives used in ICEngine games.
 
+# Supported games
+- Tytus, Romek i A'Tomek (Monkeys Adventrues)
+- Wilczy Szaniec
+- Tajemnicza Wyspa
+- Mortyr
+- Warhammer 40,000: Agents Of Death
+
 # Usage
+
+Few games require -m switch, keep that in mind.
 
 To extract
 
